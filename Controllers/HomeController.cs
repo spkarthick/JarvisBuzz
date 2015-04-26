@@ -1,4 +1,5 @@
-﻿using System;
+﻿using JarvisBuzz.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -8,9 +9,13 @@ namespace JarvisBuzz.Controllers
 {
     public class HomeController : Controller
     {
-        public ActionResult Index()
+        JarvisBuzzContext JarvisBuzzDB = new JarvisBuzzContext();
+        public JsonResult Index()
         {
-            return View();
+            //JarvisBuzzDB.Login.Add(new LoginModel() { UserName = "SP", Password = "sp", Role = UserRole.User });
+            //JarvisBuzzDB.SaveChanges();
+            JarvisBuzzDB.Login.ToList();
+            return Json(JarvisBuzzDB.Login.ToList(), JsonRequestBehavior.AllowGet);
         }
     }
 }

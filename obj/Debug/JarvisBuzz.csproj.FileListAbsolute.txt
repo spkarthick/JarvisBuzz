@@ -22,7 +22,6 @@ G:\VS2012\JarvisBuzz\JarvisBuzz\bin\System.ComponentModel.DataAnnotations.dll
 G:\VS2012\JarvisBuzz\JarvisBuzz\bin\System.Configuration.dll
 G:\VS2012\JarvisBuzz\JarvisBuzz\bin\System.Data.DataSetExtensions.dll
 G:\VS2012\JarvisBuzz\JarvisBuzz\bin\System.Data.dll
-G:\VS2012\JarvisBuzz\JarvisBuzz\bin\System.Data.Entity.dll
 G:\VS2012\JarvisBuzz\JarvisBuzz\bin\System.dll
 G:\VS2012\JarvisBuzz\JarvisBuzz\bin\System.Drawing.dll
 G:\VS2012\JarvisBuzz\JarvisBuzz\bin\System.Net.Http.dll
@@ -46,3 +45,8 @@ G:\VS2012\JarvisBuzz\JarvisBuzz\bin\System.Web.Razor.xml
 G:\VS2012\JarvisBuzz\JarvisBuzz\bin\System.Web.WebPages.xml
 G:\VS2012\JarvisBuzz\JarvisBuzz\bin\System.Web.WebPages.Deployment.xml
 G:\VS2012\JarvisBuzz\JarvisBuzz\bin\System.Web.WebPages.Razor.xml
+G:\VS2012\JarvisBuzz\JarvisBuzz\obj\Debug\JarvisBuzz.csprojResolveAssemblyReference.cache
+G:\VS2012\JarvisBuzz\JarvisBuzz\bin\EntityFramework.SqlServer.dll
+G:\VS2012\JarvisBuzz\JarvisBuzz\bin\MySql.Data.dll
+G:\VS2012\JarvisBuzz\JarvisBuzz\bin\MySql.Data.Entity.EF6.dll
+G:\VS2012\JarvisBuzz\JarvisBuzz\bin\EntityFramework.SqlServer.xml
