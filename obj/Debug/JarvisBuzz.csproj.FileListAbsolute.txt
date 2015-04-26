@@ -4,9 +4,6 @@ G:\VS2012\JarvisBuzz\JarvisBuzz\bin\Newtonsoft.Json.dll
 G:\VS2012\JarvisBuzz\JarvisBuzz\bin\System.Net.Http.Formatting.dll
 G:\VS2012\JarvisBuzz\JarvisBuzz\bin\System.Web.Http.dll
 G:\VS2012\JarvisBuzz\JarvisBuzz\bin\System.Web.Http.WebHost.dll
-G:\VS2012\JarvisBuzz\JarvisBuzz\bin\System.Net.Http.Formatting.xml
-G:\VS2012\JarvisBuzz\JarvisBuzz\bin\System.Web.Http.xml
-G:\VS2012\JarvisBuzz\JarvisBuzz\bin\System.Web.Http.WebHost.xml
 G:\VS2012\JarvisBuzz\JarvisBuzz\obj\Debug\JarvisBuzz.dll
 G:\VS2012\JarvisBuzz\JarvisBuzz\obj\Debug\JarvisBuzz.pdb
 G:\VS2012\JarvisBuzz\JarvisBuzz\bin\Antlr3.Runtime.dll
@@ -14,8 +11,9 @@ G:\VS2012\JarvisBuzz\JarvisBuzz\bin\EntityFramework.dll
 G:\VS2012\JarvisBuzz\JarvisBuzz\bin\System.Web.Optimization.dll
 G:\VS2012\JarvisBuzz\JarvisBuzz\bin\System.Web.Providers.dll
 G:\VS2012\JarvisBuzz\JarvisBuzz\bin\WebGrease.dll
-G:\VS2012\JarvisBuzz\JarvisBuzz\bin\EntityFramework.xml
-G:\VS2012\JarvisBuzz\JarvisBuzz\bin\Newtonsoft.Json.xml
+G:\VS2012\JarvisBuzz\JarvisBuzz\bin\EntityFramework.SqlServer.dll
+G:\VS2012\JarvisBuzz\JarvisBuzz\bin\MySql.Data.dll
+G:\VS2012\JarvisBuzz\JarvisBuzz\bin\MySql.Data.Entity.EF6.dll
 G:\VS2012\JarvisBuzz\JarvisBuzz\bin\Microsoft.CSharp.dll
 G:\VS2012\JarvisBuzz\JarvisBuzz\bin\Microsoft.Web.Infrastructure.dll
 G:\VS2012\JarvisBuzz\JarvisBuzz\bin\System.ComponentModel.DataAnnotations.dll
@@ -39,14 +37,3 @@ G:\VS2012\JarvisBuzz\JarvisBuzz\bin\System.Web.WebPages.dll
 G:\VS2012\JarvisBuzz\JarvisBuzz\bin\System.Web.WebPages.Razor.dll
 G:\VS2012\JarvisBuzz\JarvisBuzz\bin\System.Xml.dll
 G:\VS2012\JarvisBuzz\JarvisBuzz\bin\System.Xml.Linq.dll
-G:\VS2012\JarvisBuzz\JarvisBuzz\bin\System.Web.Helpers.xml
-G:\VS2012\JarvisBuzz\JarvisBuzz\bin\System.Web.Mvc.xml
-G:\VS2012\JarvisBuzz\JarvisBuzz\bin\System.Web.Razor.xml
-G:\VS2012\JarvisBuzz\JarvisBuzz\bin\System.Web.WebPages.xml
-G:\VS2012\JarvisBuzz\JarvisBuzz\bin\System.Web.WebPages.Deployment.xml
-G:\VS2012\JarvisBuzz\JarvisBuzz\bin\System.Web.WebPages.Razor.xml
-G:\VS2012\JarvisBuzz\JarvisBuzz\obj\Debug\JarvisBuzz.csprojResolveAssemblyReference.cache
-G:\VS2012\JarvisBuzz\JarvisBuzz\bin\EntityFramework.SqlServer.dll
-G:\VS2012\JarvisBuzz\JarvisBuzz\bin\MySql.Data.dll
-G:\VS2012\JarvisBuzz\JarvisBuzz\bin\MySql.Data.Entity.EF6.dll
-G:\VS2012\JarvisBuzz\JarvisBuzz\bin\EntityFramework.SqlServer.xml
