@@ -37,3 +37,4 @@ G:\VS2012\JarvisBuzz\JarvisBuzz\bin\System.Web.WebPages.dll
 G:\VS2012\JarvisBuzz\JarvisBuzz\bin\System.Web.WebPages.Razor.dll
 G:\VS2012\JarvisBuzz\JarvisBuzz\bin\System.Xml.dll
 G:\VS2012\JarvisBuzz\JarvisBuzz\bin\System.Xml.Linq.dll
+G:\VS2012\JarvisBuzz\JarvisBuzz\obj\Debug\JarvisBuzz.csprojResolveAssemblyReference.cache

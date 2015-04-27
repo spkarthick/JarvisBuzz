@@ -1,4 +1,5 @@
-﻿using System;
+﻿using JarvisBuzz.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net;
@@ -7,12 +8,13 @@ using System.Web.Http;
 
 namespace JarvisBuzz.Controllers
 {
-    public class ValuesController : ApiController
+    public class AccountController : ApiController
     {
+        JarvisBuzzContext JarvisBuzzDB = new JarvisBuzzContext();
         // GET api/values
-        public IEnumerable<string> Get()
+        public IEnumerable<LoginModel> Get()
         {
-            return new string[] { "value1", "value2" };
+           return JarvisBuzzDB.Login.AsEnumerable();
         }
 
         // GET api/values/5
@@ -24,6 +26,7 @@ namespace JarvisBuzz.Controllers
         // POST api/values
         public void Post([FromBody]string value)
         {
+
         }
 
         // PUT api/values/5
