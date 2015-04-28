@@ -37,3 +37,40 @@ body {
     overflow:scroll;
     height:100%;
 }
+
+.newsthumbs {
+    padding: 20px 0px 60px 0px;
+}
+
+.companycoverphoto {
+    height:700px;
+    background:url("/images/companycover.jpg") no-repeat scroll 0px 0px / cover rgba(0, 0, 0, 0);
+}
+
+@media only screen and (max-width: 321px) {
+    .companycoverphoto {
+        height:200px;
+        background:url("/images/companycover.jpg") no-repeat scroll -60px 0px / cover rgba(0, 0, 0, 0);
+    }
+}
+
+@media only screen and (min-width: 322px) and (max-width: 481px) {
+    .companycoverphoto {
+        height:320px;
+        background:url("/images/companycover.jpg") no-repeat scroll -60px 0px / cover rgba(0, 0, 0, 0);
+    }
+}
+
+@media only screen and (min-width: 482px) and (max-width: 750px) {
+    .companycoverphoto {
+        height:400px;
+        background:url("/images/companycover.jpg") no-repeat scroll -60px 0px / cover rgba(0, 0, 0, 0);
+    }
+}
+
+@media only screen and (min-width: 751px) and (max-width: 980px) {
+    .companycoverphoto {
+        height:600px;
+        background:url("/images/companycover.jpg") no-repeat scroll -60px 0px / cover rgba(0, 0, 0, 0);
+    }
+}
